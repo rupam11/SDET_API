@@ -1,0 +1,8 @@
+Status: FAILED
+Time Taken: 469
+Size: 0
+Timestamp: Thu Oct 08 11:05:57 IST 2020
+TestStep: JDBC Request_1
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException
